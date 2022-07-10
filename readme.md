@@ -1,4 +1,4 @@
-# License plate Recognition
+# Licence Plate Reader
 ## Usage
 1. Create a conda environment
 
